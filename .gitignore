@@ -27,5 +27,12 @@ build/Release
 *.iml
 MANIFEST.MF
 
-# Dependency directory
+# nodeJS npm Dependency directory
 node_modules
+
+# PHP Composer dependency directory
+/vendor/*
+/vendors/*
+
+# PHP Composer lock
+composer.lock
