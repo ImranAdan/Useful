@@ -24,6 +24,8 @@ build/Release
 
 # IntelliJ Idea project files
 .idea
+*.iml
+MANIFEST.MF
 
 # Dependency directory
 node_modules
