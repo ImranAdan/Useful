@@ -1,6 +1,6 @@
 # JS
 
-Implementation of Serveral Concepts in JS (including nodeJS).
+Implementation of several concepts in JS (including nodeJS).
 
 ## Winston Logger Settings ###
 A typical logger setup. Notable features are:

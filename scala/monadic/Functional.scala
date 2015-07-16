@@ -5,7 +5,7 @@ bject Functional extends App {
      * Some functional concepts in Scala
      */
 
-    // Declare and initilize some collections to apply the monadic functions 
+    // Declare and initilise some collections to apply the monadic functions
 
     val someNumbers = Seq(1, 2, 3, 4, 5);
     val teams = Seq("Arsenal", "FC Porto", "AC Milan", "Cheltenham Town", "Barca");

@@ -1,6 +1,6 @@
 # Java
 
-Implementation of Serveral Concepts for the Java PL
+Implementation of several concepts for the Java PL
 
-	- Serialisation
+	- Serialization
 	- Files

@@ -1,4 +1,3 @@
 # C++
 
-Implementation of Serveral Concepts for the C++
-
+Implementation of several concepts for the C++
