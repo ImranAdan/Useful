@@ -2,6 +2,16 @@
 
 Implementation of several concepts in JS (including nodeJS).
 
+## Typical global npm packages for nodeJS ###
+These are some useful npm packages for nodeJS development .Just enter `npm update <package name> -g` for each (you may need `sudo` in front for certain systems).
+
+* express
+* express-generator
+* jasmine
+* jasmine-node
+* node-inspector
+* nodemon
+
 ## Winston Logger Settings ###
 A typical logger setup. Notable features are:
 
