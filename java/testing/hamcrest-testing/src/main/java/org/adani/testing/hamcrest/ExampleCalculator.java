@@ -1,4 +1,4 @@
-package org.adani.testing.hamcrest_testing;
+package org.adani.testing.hamcrest;
 
 public class ExampleCalculator {
 	
